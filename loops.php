@@ -8,11 +8,11 @@ echo $i;
 // Do While loop
 
 $c=20;
-d($c<=100;){
+d{
   $c++;
-  echo $c."<br>"
+  echo $c."<br>";
 }
-while{
+while($c<=100);
 
 
 
